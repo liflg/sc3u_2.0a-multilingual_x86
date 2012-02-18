@@ -1,0 +1,39 @@
+
+			SimCity 3000 Unlimited: multilingual version 2.0a
+			     (http://www.lokigames.com/products/sc3k/)
+
+========================================
+
+ABOUT
+====
+
+	This is an updated installer for the Lokiversion of Sim City 3000.
+	It contains the most recent patch and some workarounds to get this
+	game working with current Linux distributions.
+
+SYSTEM REQUIREMENTS
+==============
+
+	- The Loki Sim City 3000 disc
+
+RUNNING THE GAME
+============
+
+	Run "sc3u.sh" to play or "sc3bat.sh" to start the
+        Building Architect Plus
+	
+NOTES
+====
+
+	- Loki-Compat-Libs are from http://www.swanson.ukfsn.org/loki/
+
+	- if you reinstall the game to another place than before, make sure
+	  you delete all the dead symlinks in ~/.loki/sc3u/ before playing
+
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Linux Installers for Linux Gamers Team
